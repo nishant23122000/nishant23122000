@@ -17,7 +17,10 @@ I am a Web Developer by profession. I have curated many projects and also contri
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="50" height="50"/> </a> <a rel="stylesheet" href="https://nodejs.org/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/> </a>
+<p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="50" height="50"/> </a> <a rel="stylesheet" href="https://nodejs.org/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alg="NodeJS" width="50" height="50"/> </a>
+<a rel="stylesheet" href="https://www.java.com/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" alt="JAVA" /> </a>
+<a rel="stylesheet" href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" /> </a>
+<a rel="stylesheet" href="https://angular.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="angular" /> </a>
 </p>
 
 
