@@ -1,10 +1,11 @@
-<h1>Hey there, I'm <a  href="https://github.com/tanyagupta0201/">Tanya Gupta </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hey there, I'm <a  href="https://github.com/tanyagupta0201/">Nishant Patel </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 [![linkedin badge](https://img.shields.io/badge/tanyagupta0201-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanyagupta0201)
 [![Gmail Badge](https://img.shields.io/badge/tanyagupta.pg@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:tanyagupta.pg@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=tanyagupta0201&style=plastic" />
 
-I'm a third year CSE undergraduate pursuing B. Tech and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills.  <br> 
+I am a Web Developer by profession. I have curated many projects and also contributed to various Open-Source projects in the same main stream. I have in-depth knowledge of DSA. I am always eager to explore new and exciting skills or knowledge.
+ <br> 
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
 
 - 🌱 I’m currently focusing on **Android Development** and practicing **Data Structures and Algorithms** everyday.
@@ -16,7 +17,7 @@ I'm a third year CSE undergraduate pursuing B. Tech and a passionate programmer 
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="50"/></a><a href="https://developer.android.com" target="_blank"> <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="45"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a><a href="https://developer.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a><a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/> </a>
+<p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="50" height="50"/> </a> <a rel="stylesheet" href="https://nodejs.org/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> </a>
 </p>
 
 
