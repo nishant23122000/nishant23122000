@@ -15,7 +15,7 @@ I am a Web Developer by profession. I have curated many projects and also contri
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages,Tools And Framworks:</h3>
 
 <p align="left">
 
@@ -35,11 +35,11 @@ I am a Web Developer by profession. I have curated many projects and also contri
 <br>
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=tanyagupta0201&theme=react-dark)
+![github graph](https://activity-graph.herokuapp.com/graph?username=nishant23122000&theme=react-dark)
 
 
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=tanyagupta0201&theme=dark&hide_border=false" width = 500>
-<img src = "https://github-readme-stats.vercel.app/api?username=tanyagupta0201&show_icons=true&theme=dark" width = 500>
+<img src = "https://github-readme-stats.vercel.app/api?username=nishant23122000&show_icons=true&theme=dark" width = 500>
 
 
 
