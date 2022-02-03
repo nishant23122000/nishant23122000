@@ -6,8 +6,8 @@
 
 I am a Web Developer by profession. I have curated many projects and also contributed to various Open-Source projects in the same main stream. I have in-depth knowledge of DSA. I am always eager to explore new and exciting skills or knowledge.
  <br> 
-<img align='right' src="https://i.gifer.com/5eKX.gif" width="250" height="210">
 
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="250" height="210" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 - 🌱 I’m currently focusing on **Android Development** and practicing **Data Structures and Algorithms** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
