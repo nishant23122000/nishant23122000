@@ -22,19 +22,11 @@ I am a Web Developer by profession. I have curated many projects and also contri
 <a rel="stylesheet" href="https://www.w3schools.com/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/></a>
 <a rel="stylesheet" href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="css" /></a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> 
-
 <a rel="stylesheet" href="https://www.java.com/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" alt="JAVA" /> </a>
-
 <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="50" height="50"/> </a>
-
  <a rel="stylesheet" href="https://nodejs.org/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="NodejS"  /> </a>
-
-<a rel="stylesheet" href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" /> </a>
-<a rel="stylesheet" href="https://angular.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="angular" /> </a>
-
+<a rel="stylesheet" href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" /> </a><a rel="stylesheet" href="https://angular.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="angular" /> </a>
 <a rel="stylesheet" href="https://redux.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" alt="redux" /></a>
-</p>
-
 <a rel="stylesheet" href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" alt="flask" /></a>
 </p>
 
