@@ -3,8 +3,7 @@
 [![linkedin badge](https://img.shields.io/badge/nishant-patel-0b4944174f?style=flat&logo=linkedin)](https://www.linkedin.com/in/nishant-patel-0b4944174/)
 [![Gmail Badge](https://img.shields.io/badge/nkpatel23122000@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:nkpatel23122000@gmail.com)
 
-I am a Web Developer by profession. I have curated many projects and also contributed to various Open-Source projects in the same main stream. I have in-depth knowledge of DSA. I am always eager to explore new and exciting skills or knowledge.
- <br> 
+Hi, I’m Nishant Patel, a Gujarati, positive, always smiling, ambitious guy.On a daily basis, I work as a MERN stack developer. A normal workday for me consists of working with backend in NodeJS and Meteor. I mostly work in React, Node, Angular, DSA. <br> 
 <img align='right' src="https://img.icons8.com/external-victoruler-linear-colour-victoruler/344/external-man-people-victoruler-linear-colour-victoruler-1.png" width="250" height="210">
 
 - 🌱  I'm an avid **Full Stack Web Developer** with a journey of 4 Years.
