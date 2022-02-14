@@ -7,9 +7,10 @@ I am a Web Developer by profession. I have curated many projects and also contri
  <br> 
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
 
-- 🌱 I’m currently focusing on **Full Stack Development** and practicing **Data Structures and Algorithms** everyday.
+- 🌱  I'm an avid **Full Stack Web Developer** with a journey of 4 Years.
 -  I'm fluent in backend technologies, and I believe in the supremacy of **MERN**.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
+-  I'm an active competitor in **Data Structures and Algorithms** contests.
 
 
 <br>
