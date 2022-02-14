@@ -1,14 +1,13 @@
 <h1>Hey there, I'm <a  href="https://github.com/tanyagupta0201/">Nishant Patel </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-[![linkedin badge](https://img.shields.io/badge/tanyagupta0201-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanyagupta0201)
-[![Gmail Badge](https://img.shields.io/badge/tanyagupta.pg@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:tanyagupta.pg@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=tanyagupta0201&style=plastic" />
+[![linkedin badge](https://img.shields.io/badge/nishant-patel-0b4944174f?style=flat&logo=linkedin)](https://www.linkedin.com/in/nishant-patel-0b4944174/)
+[![Gmail Badge](https://img.shields.io/badge/nkpatel23122000@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](nkpatel231222000@gmail.com)
 
 I am a Web Developer by profession. I have curated many projects and also contributed to various Open-Source projects in the same main stream. I have in-depth knowledge of DSA. I am always eager to explore new and exciting skills or knowledge.
  <br> 
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
 
-- 🌱 I’m currently focusing on **Android Development** and practicing **Data Structures and Algorithms** everyday.
+- 🌱 I’m currently focusing on **Full Stack Development** and practicing **Data Structures and Algorithms** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
 -  Show some ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
