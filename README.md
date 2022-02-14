@@ -5,7 +5,7 @@
 
 I am a Web Developer by profession. I have curated many projects and also contributed to various Open-Source projects in the same main stream. I have in-depth knowledge of DSA. I am always eager to explore new and exciting skills or knowledge.
  <br> 
-<img align='right' src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-github-a-web-based-hosting-service-for-version-control-logo-shadow-tal-revivo.png" width="250" height="210">
+<img align='right' src="https://img.icons8.com/external-victoruler-linear-colour-victoruler/344/external-man-people-victoruler-linear-colour-victoruler-1.png" width="250" height="210">
 
 - 🌱  I'm an avid **Full Stack Web Developer** with a journey of 4 Years.
 -  I'm fluent in backend technologies, and I believe in the supremacy of **MERN**.
