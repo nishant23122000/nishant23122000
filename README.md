@@ -1,4 +1,4 @@
-<h1>Hey there, I'm <a  href="https://github.com/nishant23122000">Nishant Patel </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hey there, I'm <a  href="bit.ly/nishant-patel">Nishant Patel </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 [![linkedin badge](https://img.shields.io/badge/nishant-patel-0b4944174f?style=flat&logo=linkedin)](https://www.linkedin.com/in/nishant-patel-0b4944174/)
 [![Gmail Badge](https://img.shields.io/badge/nkpatel23122000@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:nkpatel23122000@gmail.com)
